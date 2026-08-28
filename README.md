@@ -51,7 +51,7 @@ To build the app:
 
 ---
 
-*Developed by [Glowplug](https://glowplug.studio) in Thailand.*
+*Developed by [sharpi-sh](https://sharpi.sh) in Thailand.*
 
 ## 🤖 AI Generated
 This application was entirely scaffolded and developed with the assistance of **Gemini 3 Pro Preview**, demonstrating the capabilities of advanced AI models in autonomous software engineering, full-stack Android development, and modern UI implementation using Jetpack Compose.
