@@ -1,5 +1,7 @@
 # Easy SMS 2 SMTP for Android
 
+![Easy SMS 2 SMTP for Android forwarding SMS to SMTP](assets/readme-hero.webp)
+
 **Easy SMS 2 SMTP for Android** is an efficient and lightweight Android application that automatically listens for incoming SMS messages and instantly forwards them to an email address of your choice using an SMTP server. 
 
 Whether you need to archive your messages, forward two-factor authentication (2FA) codes to a secondary device, or monitor a remote Android phone, this app silently does the job in the background while being incredibly battery efficient.
@@ -48,10 +50,3 @@ To build the app:
 2. Open the project in **Android Studio**.
 3. Sync the project with Gradle files.
 4. Build and Run the app on an emulator or physical device running Android 7.0 (API 24) or higher.
-
----
-
-*Developed by [sharpi-sh](https://sharpi.sh) in Thailand.*
-
-## 🤖 AI Generated
-This application was entirely scaffolded and developed with the assistance of **Gemini 3 Pro Preview**, demonstrating the capabilities of advanced AI models in autonomous software engineering, full-stack Android development, and modern UI implementation using Jetpack Compose.
